@@ -7,14 +7,12 @@ English
 When I used socket in C language, I was tired of writing code so I made it for TCP only
 
 # example code
-{
-	include <stdio.h>
-	include <stdlib.h>
-	include "T_socket.h"
+	#include <stdio.h>
+	#include <stdlib.h>
+	#include "T_socket.h"
 
 	int main()
-
-
+	{
 		T_socket socket;
 		T_socket C_socket;
 		char Data[100];
@@ -26,5 +24,4 @@ When I used socket in C language, I was tired of writing code so I made it for T
 		printf("%s", Data);
 		system("pause");
 		return 0;
-
-}
+	}
