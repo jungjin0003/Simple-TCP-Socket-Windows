@@ -13,6 +13,7 @@ When I used socket in C language, I was tired of writing code so I made it for T
 
 int main()
 {
+
 	T_socket socket;
 	T_socket C_socket;
 	char Data[100];
