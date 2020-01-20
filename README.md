@@ -1,10 +1,16 @@
-# Simple-TCP-Socket-Windows
+# Simple TCP Socket Windows
 
-한국어
+#한국어
 매번 C언어로 소켓을 사용할때 코드 작성하기가 너무 귀찮아서 TCP 전용으로 한번 만들어봄
 
-English
+#English
 When I used socket in C language, I was tired of writing code so I made it for TCP only
+
+#제작자 왈
+어차피 내가 쓰려고 만든거 코드 수정은 github 주소만 남겨두면 허용
+
+#A word of the manufacturer
+Code modification allowed only github address
 
 # example code
 	#include <stdio.h>
