@@ -6,12 +6,6 @@
 	English
 	When I used socket in C language, I was tired of writing code so I made it for TCP only
 
-	제작자 왈
-	어차피 내가 쓰려고 만든거 코드 수정은 github 주소만 남겨두면 허용
-
-	A word of the manufacturer
-	Code modification allowed only github address
-
 # example code
 	#include <stdio.h>
 	#include <stdlib.h>
